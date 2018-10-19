@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name":"Aidan Phillipps",
+    "occupation":"Web Developer",
+    "description":"He said : Luck is a matter of preparation meeting opportunity.",
+    "image":"profilepic.jpg",
+    "bio":"Aidan is a passionate, hosnest person. He's always curious to create, to improve, and to deliver the best product that fits with what user wants and needs. He follow the best practice in development.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "shkmusong_3@outlook.com",
+    "phone": "64-21-104-4278",
+    "address":{
+      "street":"Elliott",
+      "city":"Auckland",
+      "state":"New Zealand",
+      "zip": "1010"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Massey University",
+        "degree":"Bachelor of Arts(B.A.)",
+        "graduated":"April 2010",
+        "description":"When I was young, I studied arts and my dream was to be an artist. But life took me to other way. So I've mastered software development tech by myself."
+      }
+    ],
+    "work":[
+      {
+        "company":"TaskFi",
+        "title":"Beginning of Rise",
+        "years":"June 2010 - August 2010",
+        "description":"TaskFi started its life and advertising app was required. I developed app using React/Express and it had AWESOME UI. The app helped to raise reputation of company."
+      },
+      {
+        "company":"Centriguard",
+        "title":"Shift Schedule",
+        "years":"September 2010 - December 2010",
+        "description":"The company want app to schedule shift for workers. To increase access speed of database, I used MongoDB and built management system based on it. Wonderful functions was implemented for it after 3 months effort."
+      },
+      {
+        "company":"NewVision Company",
+        "title":"Social website",
+        "years":"March 2011 - January 2015",
+        "description":"NewVision service company want to build interesting site. To implement that idea, they hired several freelancers. I've developed front-end to increase low rating of site. CEO satisfied about my impressive design skill and high responsibility."
+      },
+      {
+        "company":"Techor",
+        "title":"Roto-Vegas star",
+        "years":"February 2015 - February 2015",
+        "description":"I've developed E-commerace site for Techor. They want revision of entire project and have already prepared a list of requirements. The project was finished successfully and my communication skill is a critical factor of success."
+      },
+      {
+        "company":"East World Institution",
+        "title":"Product Management System",
+        "years":"March 2015 - April 2018",
+        "description":"Once, There was project called 'challenge'. I had a part of it with 3 freelancers and we designed employee database perfectly so main issue of project was solved. It was difficult to built system and took longer than expect. But it was a successful job in my history, so I'm proud of it."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React",
+        "level":"99%"
+      },
+      {
+        "name":"Express",
+        "level":"95%"
+      },
+      {
+        "name":"Node.js",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"99%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Webportal",
+        "category":"The legendary movie site",
+        "image":"1.jpg",
+        "url":"http://webportal.nowonline.com.br/"
+      },
+      {
+        "title":"Squarespace",
+        "category":"All-in-one platform that support marketing and analytic and empowers people with creative ideas to succeed",
+        "image":"2.jpg",
+        "url":"https://www.squarespace.com/"
+      },
+      {
+        "title":"Postmates",
+        "category":"The largest, most reliable on-demand delivery and pickup platform",
+        "image":"3.jpg",
+        "url":"https://postmates.com/"
+      },
+      {
+        "title":"Imgur",
+        "category":"Humor website that have funny movies and pictures",
+        "image":"4.jpg",
+        "url":"http://imgur.com/"
+      },
+      {
+        "title":"Salesforce",
+        "category":"The world's #1 customer relationship management platform",
+        "image":"5.jpg",
+        "url":"http://www.salesforce.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
