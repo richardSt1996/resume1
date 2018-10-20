@@ -16,6 +16,10 @@
     "dependencies": {
       "express": "^4.16.3"
     },
+    "repository": {
+      "type": "git",
+      "url": "https://git.heroku.com/rocky-lake-25835.git"
+    },
     "keywords": [
       "node",
       "heroku",
